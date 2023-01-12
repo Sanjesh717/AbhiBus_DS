@@ -1,0 +1,16 @@
+{
+    "30": {
+        "screenshot": ".images\\30-screenshot.png",
+        "source": "https://www.abhibus.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".ui-state-hover"
+    },
+    "Date": {
+        "screenshot": ".images\\date-screenshot.png",
+        "source": "https://www.abhibus.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".ui-state-highlight"
+    }
+}

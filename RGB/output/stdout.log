@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+Template robot main suite.                                            | FAIL |
+Evaluating expression 'expression' failed: ModuleNotFoundError: No module named '2+1'
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  c:\Users\sanjesh.ld\Documents\Robocorp Projects\RGB\output\output.xml
+Log:     c:\Users\sanjesh.ld\Documents\Robocorp Projects\RGB\output\log.html
